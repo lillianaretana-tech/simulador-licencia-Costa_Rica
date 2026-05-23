@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "cr.licencia.simulador",
+        "sha256_cert_fingerprints": ["53:C8:C8:35:B0:18:55:F1:FD:D4:F9:EF:CD:DB:5E:C8:E7:7D:EA:93:5B:24:14:35:D1:7B:F4:A6:44:44:88:4F"]
+      }
+    }]
